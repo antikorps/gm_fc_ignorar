@@ -1,5 +1,5 @@
 # Ocultar hilos de usuarios ignorados
-Script de usuario para usar con GreaseMonkey o equivalente (TamperMonkey, ViolentMonkey, etc.) que permite gestionar una colección de usuarios ignorados y ocultar sus hilos.
+Script de usuario para usar con GreaseMonkey o equivalente (TamperMonkey, ViolentMonkey, etc.) que permite gestionar una colección de usuarios ignorados y ocultar sus hilos. **No es necesario disponer de usuario registrado para su uso**.
 
 ## Uso
 La ventana de gestión se acciona haciendo foco en el contenido de la página y pulsando la combinación **Control + Alt + i** 
