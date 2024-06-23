@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Ocultar hilos de usuarios ignorados
 // @namespace    gm_fc_ignorar
-// @version      0.2
+// @version      1
 // @description  Script de usuario para ocultar/ignorar hilos de usuarios ignorados
 // @author       antikorps@gmail
 // @match        https://forocoches.com/foro/forumdisplay.php?f=*
@@ -59,6 +59,9 @@
     #gm-fc-ignorar p,
     #gm-fc-ignorar textarea {
         color: white !important;
+    }
+    #gm-fc-ignorar textarea {
+        background: #333;
     }
 
     #gm-fc-ignorar button {
